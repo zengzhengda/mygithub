@@ -2,6 +2,7 @@
 - [github菜鸟教程](http://www.runoob.com/w3cnote/git-guide.html)
 - [github教程:史上最全github使用从入门到精通](http://blog.csdn.net/hcbbt/article/details/11651229/)
 - [对linux新手非常有用的20个命令](http://www.oschina.net/translate/useful-linux-commands-for-newbies)
+- [github上README.md教程](http://blog.csdn.net/kaitiren/article/details/38513715)
 
 #### github写个人主页、博客
 - [技术简历模板](https://github.com/geekcompany/ResumeSample)
